@@ -1,0 +1,4 @@
+python train.py --host Puma1 --model ResNetFPN --fuse-mode AsymBi --blocks 4 --channel-times 1 --syncbn --gpus 0
+
+python train.py --host Puma1 --fuse-mode AsymBi --blocks 4 --model ResUNet --channel-times 1 --syncbn --gpus 0 --lr 0.05
+

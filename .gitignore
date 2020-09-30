@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+*.iml
+*.xml
+*.pyc
+*.log
+#*.pdf
+# *.params
+*.states
