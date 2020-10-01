@@ -1,7 +1,7 @@
 Asymmetric Contextual Modulation
 ==============
 
-MXNet/Gluon code for "Asymmetric Contextual Modulation for Infrared Small Target Detection" <https://github.com/YimianDai/open-acm>
+MXNet/Gluon code for "Asymmetric Contextual Modulation for Infrared Small Target Detection" <https://arxiv.org/abs/2009.14530>
 
 What's in this repo so far:
 
