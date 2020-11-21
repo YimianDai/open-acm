@@ -29,4 +29,17 @@ The training commands / shell scripts are in `cmd_scripts.txt`
 <img src=https://raw.githubusercontent.com/YimianDai/imgbed/master/github/acm/ACM_ROC_all.png width=50%>
 
 
+## Citation
+
+Please cite our paper in your publications if our work helps your research. BibTeX reference is as follows.
+
+```
+@inproceedings{dai21acm,
+  title   =  {Asymmetric Contextual Modulation for Infrared Small Target Detection},
+  author  =  {Yimian Dai and Yiquan Wu and Fei Zhou and Kobus Barnard},
+  booktitle =  {{IEEE} Winter Conference on Applications of Computer Vision, {WACV} 2021}
+  year    =  {2021}
+}
+```
+
 
